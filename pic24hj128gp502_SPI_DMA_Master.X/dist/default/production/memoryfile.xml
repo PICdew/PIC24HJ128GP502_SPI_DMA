@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/pic24hj128gp502_SPI_DMA_Master.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>92</used>
+      <free>8100</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131328</length>
+      <used>5688</used>
+      <free>125640</free>
+    </memory>
+  </executable>
+</project>
